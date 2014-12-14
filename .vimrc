@@ -1,0 +1,9 @@
+set ts=4
+set sw=4
+set expandtab
+set incsearch
+set ai
+set nu
+set hlsearch
+set ruler
+set autochdir
